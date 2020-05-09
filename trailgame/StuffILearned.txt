@@ -1,0 +1,5 @@
+my abilities in the following areas were improved
+- working with multiple files
+- working with a mult threaded server program
+- using some basic data structures like hash set, synchronized list, Arraylist
+- making sure that my variables would be thread safe and serializable
